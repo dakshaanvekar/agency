@@ -1,0 +1,38 @@
+@media(min-width:992px) and (max-width:1200px){}
+@media(min-width:768px) and (max-width:991px){}
+@media(min-width:768px) and (max-width:991px){
+	.bx-wrapper .bx-caption h1{font-size: 40px;}
+	.bx-wrapper .bx-caption{top: 0;}
+	.bx-wrapper .bx-caption p{font-size: 16px;}
+	.btn-caption{font-size: 18px;}
+	.portfolioSection .workBtn{margin-bottom: 50px;margin-top: 50px;}
+	.teamSection{margin: 16px 0 0 0;}
+	.teamSection .heading h2{margin-bottom: 40px;}
+	.teamSection .members h2{margin-top: 10px;}
+	.teamSection .members p{margin-bottom: 15px;}
+	.planSection{padding-top: 30px;padding-bottom: 55px;}
+	.contentSlider {margin-top: 30px; margin-bottom: 0px;}
+	.contactSection{padding: 30px 0 50px;}
+	.contactSection h2{margin-bottom: 30px;}
+
+}
+@media (max-width:767px){
+	.navbar-nav{float: left !important;width: 100%;}
+	.navbar-toggle{background-color: #49cbcd;margin-right: 35px;margin-top: 34px;}
+	.navbar-nav > li > a {padding-top: 15px;padding-bottom: 10px;}
+	.navbar{min-height: 100px;}
+	.bx-wrapper .bx-caption{top: 0;}
+	.bx-wrapper .bx-caption h1{font-size: 16px;}
+	.bx-wrapper .bx-caption p{font-size: 12px;}
+	.teamSection .heading h2{margin-bottom: 30px;}
+	.teamSection .members h2{margin-top: 10px;}
+	.teamSection .members p{margin-bottom: 30px;}
+	.teamSection{margin: 68px 0 20px 0px;}
+	.planSection{padding-top: 40px;padding-bottom: 55px;}
+	.contentSlider .bxsliderContent p{font-size: 15px;}
+	.contentSlider .bxsliderContent h2{font-size: 22px;}
+	.contentSlider{margin-top: 35px;margin-bottom: 0px;}
+	.contactSection{padding: 25px 0 25px;}
+	.contactSection h2{margin-bottom: 10px;}
+
+}
